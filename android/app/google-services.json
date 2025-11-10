@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605059990493",
+    "project_id": "my-smartdevices-app123",
+    "storage_bucket": "my-smartdevices-app123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605059990493:android:afe224ba80f1a2823f2c34",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVLA5sz1S2qE7bwt6ii7pKUho8r10HtGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
